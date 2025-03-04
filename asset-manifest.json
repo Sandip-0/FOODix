@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/FOODix/static/css/main.1f9fe885.css",
+    "main.js": "/FOODix/static/js/main.f53c38cc.js",
+    "static/js/453.fc2b045c.chunk.js": "/FOODix/static/js/453.fc2b045c.chunk.js",
+    "static/media/image6.png": "/FOODix/static/media/image6.c41d1ebc05164ec26697.png",
+    "static/media/bg2.png": "/FOODix/static/media/bg2.c856b4d1302714ee6f7f.png",
+    "static/media/image14.png": "/FOODix/static/media/image14.bb917b89e5fc1bea5856.png",
+    "static/media/image4.png": "/FOODix/static/media/image4.248b95b2c944e90b5e82.png",
+    "static/media/image5.png": "/FOODix/static/media/image5.7f82f5f5ca391983b37c.png",
+    "static/media/image15.png": "/FOODix/static/media/image15.74650036adf87f593586.png",
+    "static/media/image8.png": "/FOODix/static/media/image8.026e826a23193aeb1c6d.png",
+    "static/media/image11.png": "/FOODix/static/media/image11.a97611a97cedd23fd857.png",
+    "static/media/image3.png": "/FOODix/static/media/image3.a3347c76f3ec9badb9bc.png",
+    "static/media/image12.png": "/FOODix/static/media/image12.20473891dba05812f142.png",
+    "static/media/image13.png": "/FOODix/static/media/image13.4abfd7188a9278eab239.png",
+    "static/media/image1.png": "/FOODix/static/media/image1.cb8ed7799022452091c0.png",
+    "static/media/image2.png": "/FOODix/static/media/image2.8e56893aa2c3dfdefd90.png",
+    "static/media/image7.png": "/FOODix/static/media/image7.f30949a87ab44693a9f0.png",
+    "static/media/image10.png": "/FOODix/static/media/image10.cb4f21dc4b5f350aee1d.png",
+    "static/media/footerBg.png": "/FOODix/static/media/footerBg.40a11fee74039c5dfc9c.png",
+    "static/media/bootstrap-icons.woff?": "/FOODix/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/FOODix/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/image9.png": "/FOODix/static/media/image9.a6afbd9825547ba943cb.png",
+    "static/media/image16.png": "/FOODix/static/media/image16.1abcea2bd09df850bf30.png",
+    "static/media/bg.png": "/FOODix/static/media/bg.d40d75981e27d413fcf4.png",
+    "static/media/Myimg.jpg": "/FOODix/static/media/Myimg.5d736630177669e6b6b5.jpg",
+    "static/media/image17.png": "/FOODix/static/media/image17.f9a0fbb2ff3272a45189.png",
+    "index.html": "/FOODix/index.html",
+    "main.1f9fe885.css.map": "/FOODix/static/css/main.1f9fe885.css.map",
+    "main.f53c38cc.js.map": "/FOODix/static/js/main.f53c38cc.js.map",
+    "453.fc2b045c.chunk.js.map": "/FOODix/static/js/453.fc2b045c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9fe885.css",
+    "static/js/main.f53c38cc.js"
+  ]
+}
